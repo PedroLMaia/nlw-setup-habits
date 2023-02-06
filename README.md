@@ -35,13 +35,16 @@ Ao acessar a página inicial da aplicação web, o usuário será recebido por u
   
   
 
-<img src="./.github/1.png" align="left" style="width: 100%" />  
+<img src="./.github/1.png" align="left" style="width: 100%" />
+<div> <div/>
   
 
-<img src="./.github/2.png" align="left" style="width: 100%" />  
+<img src="./.github/2.png" align="left" style="width: 100%" />
+<div> <div/>
   
 
-<img src="./.github/3.png" align="left" style="width: 100%" />  
+<img src="./.github/3.png" align="left" style="width: 100%" />
+<div> <div/>
   
 
 <img src="./.github/4.png" align="left" style="width: 100%"  />
