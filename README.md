@@ -54,13 +54,13 @@ Ao acessar a página inicial da aplicação web, o usuário será recebido por u
 A tela inicial da aplicação mobile apresenta os quadrados que representam os dias passados, presente e futuro, com cores baseadas em seus respectivos progressos. Cinza indica que nenhum hábito foi realizado, cores claras indicam pouco progresso e cores escuras indicam muito progresso. Além disso, dias futuros são representados com cinza e opacidade reduzida e não são clicáveis. O usuário também pode adicionar novos hábitos clicando no botão apropriado na tela.  
   
 
-|                           Splash Screen                           |                              Home vazia                               |                       Home com progresso                        |
+|                           Home                           |                              Past Habit                               |                        Day Habit                        |
 | :---------------------------------------------------------------: | :-------------------------------------------------------------------: | :-------------------------------------------------------------: |
 | <img src="./.github/m1.png" width="250" /> | <img src="./.github/m2.png" width="250" /> | <img src="./.github/m3.png" width="250" /> |
   
-  |                           Splash Screen                           |                              Home vazia                               |                       Home com progresso                        |
+  |                           Day habit with progress                           |                              New Habit                              |                       Day Habit                        |
 | :---------------------------------------------------------------: | :-------------------------------------------------------------------: | :-------------------------------------------------------------: |
-| <img src="./.github/m4.png" width="250" /> | <img src="./.github/m5.png" /> | <img src="./.github/m3.png" width="250" width="250" /> |
+| <img src="./.github/m4.png" width="250" /> | <img src="./.github/m5.png" width="250" /> | <img src="./.github/m3.png" width="250" width="250" /> |
 
 ## Princípios
 - Princípio da Segregação de Interfaces: As interfaces devem ser segregadas;
