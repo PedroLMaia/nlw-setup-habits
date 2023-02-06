@@ -14,7 +14,7 @@ O evento foi realizado entre 16 e 20 de janeiro de 2023 e tinha como objetivo de
   
 
 <div align="center">
-<img src="https://github.com/MrRioja/nlw-setup/raw/main/.github/wallpaper.png" align="center" style="width: 100%" />
+<img src="./.github/Home.png" align="center" style="width: 100%" />
 </div>  
   
 
