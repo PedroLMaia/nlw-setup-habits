@@ -70,7 +70,6 @@ A tela inicial da aplicação mobile apresenta os quadrados que representam os d
 - Princípio da Responsabilidade Única: Cada classe tem uma única responsabilidade;
   
 ## Instalação
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 > ⚠ Verifique o IP da sua máquina antes de executar o frontend e mobile e configure-o no arquivo de configuração do Axios na pasta "lib" dos projetos correspondentes.
 
 ### Rodando o Back End - server
