@@ -9,7 +9,7 @@
 ## Sobre App
 Projeto criado durante a NLW Setup, uma iniciativa da Rocketseat, 100% online e sem custo, com conteúdo exclusivo e inovador.
 
-O evento foi realizado entre 16 e 20 de janeiro de 2023 e tinha como objetivo demonstrar, na prática, o potencial da stack NodeJS + ReactJS + React Native e como essas tecnologias podem ajudar a alcançar novos níveis na programação.
+O evento foi realizado entre 16 e 20 de janeiro de 2023 e tinha como objetivo demonstrar, na prática, o potencial da stack NodeJS + React + React Native e como essas tecnologias podem ajudar a alcançar novos níveis na programação.
   
   
 
